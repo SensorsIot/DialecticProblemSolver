@@ -22,6 +22,10 @@
     Based on the WifiClientSecure example by
     Ivan Grokhotkov
 
+    Libraries: 
+    ArduinoJSON: Benoit Blanchon's lib. Attention !!! Use Stable version 5, not version 6 !!!
+    OLED: Daniel Eichhorn's lib: https://github.com/ThingPulse/esp8266-oled-ssd1306
+
 */
 
 // from LarryD, Arduino forum
